@@ -1,4 +1,4 @@
-# CFL SQL course project - Art School
+# CFG SQL course project - Art School
 Final project for the May/June 2023 CFG SQL & Data course. For more info on CFG, visit [their website](https://codefirstgirls.com/).
 
 ## Assignment
